@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Emoji from './Emoji';
 
 class Footer extends Component {
 	render() {
@@ -19,7 +20,7 @@ class Footer extends Component {
 					 </ul>
 
 					 <ul className="copyright">
-							<li>&copy; Copyright 2018 Rami Taleb</li>
+							<li>Made by Rami Taleb <Emoji symbol="💜" label="purple heart"/></li>
 					 </ul>
 
 				</div>

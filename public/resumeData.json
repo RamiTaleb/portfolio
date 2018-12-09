@@ -1,9 +1,8 @@
 {
 	"main": {
 		"name":"Rami Taleb",
-		"description":"An Ottawa based Software Engineering student.",
+		"description":"An Ottawa based Software Engineering student ",
 		"image":"profilepic.jpg",
-		"bio":"I am currently a fourth year Software Engineering student at the University of Ottawa, two study semesters and one CO-OP term away from graduating. 21 years young and I have been interested in technology for as long as I can remember. I am always looking to improve my knowledge in tech and to improve myself as a person. Previously employed by IBM, CENX and uOttawa SASS-IT. Some of my interests include but are not limited to back-end development, entrepreneurship, hackathons, machine learning and soccer.",
 		"contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
 		"email": "ramitaleb32@gmail.com",
 		"phone": "613-890-0906",

@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Emoji from './Emoji';
 
 class Header extends Component {
 	render() {
@@ -30,8 +31,8 @@ class Header extends Component {
 
 			<div className="row banner">
 				 <div className="banner-text">
-						<h1 className="responsive-headline">I'm {name}.</h1>
-						<h3>{description}</h3>
+						<h1 className="responsive-headline">Hi! I'm {name} <Emoji symbol="👋🏼" label="wave"/></h1>
+						<h3>{description} <Emoji symbol="👨🏻‍💻" label="coding"/></h3>
 						<hr />
 						<ul className="social">
 							 {networks}

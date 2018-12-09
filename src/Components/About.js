@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
+import Emoji from './Emoji';
 
 class About extends Component {
 	render() {
 
 		if(this.props.data){
 			var profilepic= "images/"+this.props.data.image;
-			var bio = this.props.data.bio;
 			var phone= this.props.data.phone;
 			var email = this.props.data.email;
 			var resumeDownload = this.props.data.resumedownload;
@@ -20,7 +20,7 @@ class About extends Component {
 				 <div className="nine columns main-col">
 						<h2>About Me</h2>
 
-						<p>{bio}</p>
+						<p>I am currently a fourth year Software Engineering student at the University of Ottawa <Emoji symbol="🇨🇦" label="canada"/>, two study semesters and one CO-OP term away from graduating. 21 years young and I have been interested in technology <Emoji symbol="💻" label="laptop"/> for as long as I can remember. I am always looking to improve my knowledge <Emoji symbol="🧠" label="brain"/> in tech and to improve myself as a person. Previously employed by IBM, CENX and uOttawa SASS-IT. Some of my interests include but are not limited to back-end development, entrepreneurship, hackathons, machine learning <Emoji symbol="🤖" label="robot"/> and soccer <Emoji symbol="⚽️" label="soccer"/>.</p>
 						<div className="row">
 							 <div className="columns contact-details">
 									<h2>Get in Touch!</h2>
