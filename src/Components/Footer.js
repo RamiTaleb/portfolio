@@ -20,7 +20,7 @@ class Footer extends Component {
 					 </ul>
 
 					 <ul className="copyright">
-							<li>Made by Rami Taleb <Emoji symbol="💜" label="purple heart"/></li>
+							<li>Made with <Emoji symbol="💜" label="purple heart"/>by Rami Taleb</li>
 					 </ul>
 
 				</div>

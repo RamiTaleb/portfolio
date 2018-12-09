@@ -36,7 +36,7 @@ class Portfolio extends Component {
 								{projects}
 						</div>
 
-						<h2>You can find more on my Github.</h2>
+						<h2>You can find more on my Github!</h2>
 					</div>
 			</div>
 	 </section>
