@@ -40,20 +40,20 @@
 			{
 				"company":"IBM",
 				"title":"Software Developer ",
-				"years":"September 2018 - December 2018",
-				"description":"Assisted in the development of Storytelling in Cognos Analytics working mostly on the front end using JavaScript. Developed in NodeJS to implement fixes to a multitude of defects including playback issues, data-widget, copy/paste, undo/redo defects and more. After ramping up with the product began to implement whole features. Interfaced with the design team to ensure features improved the UX. Wrote functional UI-based tests using Selenium for Storytelling's core features."
+				"years":"September 2018 - December 2018, May 2019 - August 2019",
+				"description":"Assisted in the front end development (NodeJS) of Explore & Storytelling in Cognos Analytics. Worked with offering managers to come up with a solution to reduce the coupling of two large components & worked to implement this change. Implemented a redesign of a visualization comparison page to ensure responsiveness and ease of use, significantly improving the user experience. Implemented fixes for a multitude of defects including issues related to playback, data-widgets, copy/paste, accessibility & more. Wrote functional UI-based tests with Selenium for Storytelling’s core features."
 			},
 			{
 				"company":"CENX",
 				"title":"Software Developer",
 				"years":"January 2017 - August 2017",
-				"description":"Used Clojure as a functional programming language to resolve network related issues regarding visualizations, alarms and more to improve for one of the top 3 mobile providers within the US. Worked on a new project involving big data manipulation. Wrote parsers using Nifi to format data being streamed into the product. Actively participated in daily standups, biweekly sprints and retrospectives."
+				"description":"Learned and used Clojure to resolve network related issues regarding visualizations, alarms and more for a top 3 American mobile providers. Took initiative on a new project involving big data manipulation. Wrote parsers using Nifi to format data being streamed into the product. Actively participated in daily standups, biweekly sprints and retrospectives."
 			},
 			{
 				"company":"uOttawa SASS-IT",
 				"title":"Full Stack Developer ",
 				"years":"May 2016 - December 2017",
-				"description":"Assisted in the development of Ventus, a web-based student services application for Student Academic Success Service of the University of Ottawa. Performed significant re-engineering of software architecture by implementing object-oriented software engineering practices in PHP and JavaScript. Worked to improve the SDLC by introducing the team to Github Project Boards. Maintained the project board regularly. Assisted in project planning, requirement prioritization, feature development, and peer review of code."
+				"description":"Assisted in the development of Ventus, a student services web application for Student Academic Success Service of the University of Ottawa. Performed significant re-engineering of software architecture by implementing object-oriented practices in PHP and JavaScript. Worked to improve the SDLC by pioneering the use of Github Project Boards to the team and regularly maintaining it. Assisted in project planning, requirement prioritization, feature development, and peer review of code."
 			}
 		]
 	},
